@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/player.png</file>
+        <file>image/polpot1.jpg</file>
+        <file>image/polpot2.jpg</file>
+        <file>audio/Sat_Tee_Touy.mp3</file>
+        <file>image/polpot3.jpg</file>
+        <file>image/polpot4.jpg</file>
+        <file>image/polpot5.jpg</file>
+        <file>image/polpot6.jpg</file>
+        <file>image/polpot7.jpg</file>
+        <file>image/polpot0.jpg</file>
+        <file>image/polpot8.jpg</file>
+        <file>image/polpot9.jpg</file>
+        <file>image/endpolpot.png</file>
+        <file>audio/gun_shot.aiff</file>
+    </qresource>
+</RCC>
